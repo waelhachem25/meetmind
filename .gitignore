@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+appsettings.Development.json
+
+# .NET build outputs
+api/bin/
+api/obj/
+**/bin/
+**/obj/
+
+# Node.js
+node_modules/
+web/.vite/
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
