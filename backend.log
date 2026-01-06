@@ -1,0 +1,5 @@
+MSBUILD : error MSB1009: Project file does not exist.
+Switch: api.csproj
+
+The build failed. Fix the build errors and run again.
+Couldn't find a project to run. Ensure a project exists in /Users/waelhachem/meetmind, or pass the path to the project using --project.

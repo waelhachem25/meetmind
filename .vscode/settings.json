@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["**/Properties/launchSettings.json"],
+      "schema": {}
+    }
+  ]
+}
